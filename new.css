@@ -1,6 +1,0 @@
-ul{
-
-    display:flex; /* расположить пункты горизонтально */   
-    flex-direction: column;
-
-}
