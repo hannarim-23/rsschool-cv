@@ -1,1 +1,1 @@
-https://hannarim-23.github.io/rsschool-cv/cv
+https://hannarim-23.github.io/rsschool-cv/
